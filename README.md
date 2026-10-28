@@ -1,4 +1,4 @@
-# BCA182 Activity Recognition
+# Activity Recognition IoT
 
 Real-time walking/running recognition using an RT-Spark (STM32) board, MQTT, a Flask REST API, PostgreSQL, and an Android app.
 
