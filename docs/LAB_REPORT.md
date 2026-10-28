@@ -1,5 +1,5 @@
 ## Demo Video
-[Show Demo Video](https://drive.google.com/file/d/1f3qJzqoz9cguDA6rermC4lkE8yNm-bkq/view?usp=drive_link)
+[Show Demo Video and Firmware and Database](https://drive.google.com/file/d/1kHNwug51wmhMD1VeQ5g_qIJRqC735n6P/view?usp=sharing)
 
 ## System Integration and Test Environment
 
